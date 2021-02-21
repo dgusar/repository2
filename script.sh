@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "Test novogo faila v repo"
 echo "Sozdayu noviy katakog i fayl"
 mkdir papka
 touch papka/newfile.txt
