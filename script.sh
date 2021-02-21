@@ -4,3 +4,5 @@ mkdir papka
 touch papka/newfile.txt
 echo "this is readme file" > papka/nefile.txt
 chmod 777 papka/newfile.txt
+# Add changes to system
+sysctl -p
